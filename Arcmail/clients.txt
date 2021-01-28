@@ -1,0 +1,2 @@
+BPC;0000;kartadmin/in2;kartadmin/out2;0000
+TURKMENBASI;1304;tbashy2_1304/in;tbashy2_1304/out;1304
